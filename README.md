@@ -1,5 +1,7 @@
 ## **Document Guide for MATLAB Homework Crap Thingy Or Whatever**
 
+## if your lazy, [click me](https://github.com/ThatError404/Matlab-Crap/releases/whatever)
+
 ---
 
 ### 1. Problem 1: Mortgage Loan Calculator
@@ -117,4 +119,4 @@ In Problem 2, we're drawing a graph of four formulas in a given range for x valu
 
 ---
 
-That's the breakdown of the MATLAB scripts for your homework. To use them, save each code block as the mentioned filename (or if your lazy like me, [click me](https://github.com/ThatError404/Matlab-Crap/) for an easier way) and run them in MATLAB. Make sure both files and `MATLAB_HW1_P3.m` are in the same directory when you run them.
+That's the breakdown of the MATLAB scripts for your homework. To use them, save each code block as the mentioned filename for an easier way) and run them in MATLAB. Make sure both files and `MATLAB_HW1_P3.m` are in the same directory when you run them.
